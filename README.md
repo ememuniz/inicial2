@@ -1,2 +1,2 @@
 # inicial2
-inicial com readme
+este arquivo é só um arquivo de texto usado 
